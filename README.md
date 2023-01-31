@@ -1,6 +1,6 @@
 # 💫About Me :
 I am yohan Heettiarachchi from Sri Lanka.
-I am following a BICT degree in University of Ruhuna
+I am following a BICT(Hons.) degree in University of Ruhuna.
 
 
 # 💻Tech Stack
