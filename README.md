@@ -8,7 +8,7 @@ I am Currently following a BICT(Hons.) degree in University of Ruhuna.
 # 📊GitHub Stats :
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=yohan98-dev&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yohan98-dev&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan98-dev&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yohan98-dev&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
