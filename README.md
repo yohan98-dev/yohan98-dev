@@ -1,5 +1,5 @@
 # 💫About Me :
-I am Yohan Heettiarachchi a Full Stack Software Engineer with a BICT(Hons.) Degree from University of Ruhuna. 
+I am Yohan Hettiarachchi a Full Stack Software Engineer with a BICT(Hons.) Degree from University of Ruhuna. 
 
 
 # 💻Tech Stack
