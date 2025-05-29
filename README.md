@@ -1,6 +1,5 @@
 # 💫About Me :
-I am Yohan Heettiarachchi from Colombo,Sri Lanka.
-I am Currently following a BICT(Hons.) degree in University of Ruhuna.
+I am Yohan Heettiarachchi a Full Stack Software Engineer with a BICT(Hons.) Degree from University of Ruhuna. 
 
 
 # 💻Tech Stack
